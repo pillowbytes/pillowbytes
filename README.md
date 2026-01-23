@@ -5,7 +5,7 @@ Recently graduated from Le Wagon’s Web Development Bootcamp, which helped soli
 ## 🧑‍💻 Real-world coding experience
 
 - Built an internal prototype web app using Angular and Meilisearch to search and preserve over 10 years of support knowledge, helping teams resolve new cases using historical data.
-- Developed Zendesk Side App extensions to add missing functionality and improve daily support workflows.
+- Developed Zendesk Side App extensions to add missing functionality and improve daily support workflows(*saved `$200.000` in unbudgeted vendor costs*).
 - Created a custom Zendesk Side App to replace a deprecated native tagging feature, avoiding the need for an expensive enterprise add-on.
 - Wrote multiple vanilla JavaScript automations with Google Apps Script to streamline support operations, including escalations and automated case updates.
 
