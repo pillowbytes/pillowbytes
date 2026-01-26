@@ -2,12 +2,23 @@
 Technical Support Engineer for many years transitioning to Software Engineering.<br>
 Recently graduated from Le Wagon’s Web Development Bootcamp, which helped solidify the foundational knowledge I had previously built as a self-taught developer.
 
-## 🧑‍💻 Real-world coding experience
+## 🔧 Replin.ai (Personal Project)
+I’ve spent over 12 years working in technical support. During countless troubleshooting sessions, I often found myself wishing for a set of tools I could fully trust and that didn’t require uploading sensitive data to third-party services or risking exposure beyond my control.
 
+[Replin](https://replin.ai) came from that gap. I built it to run entirely on the client side, so analysis can happen locally, privately, and even offline. It’s the toolkit I always wished I had, and one I hope helps others who face the same challenges every day.
+
+- **[Replin Inspect](https://inspect.replin.ai)**: HAR analysis and request diagnostics in the browser  
+- **Replin Slugger** (coming soon): URL encode/decode + slug utilities  
+- **Replin Diffchecker** (coming soon): side‑by‑side diff for troubleshooting
+- **Replin MapLayers** (coming soon): Create/edit and isualize TopoJSON files for applications that use custom map layers. 
+
+## 🧑‍💻 Real-world coding experience
 - Built an internal prototype web app using Angular and Meilisearch to search and preserve over 10 years of support knowledge, helping teams resolve new cases using historical data.
 - Developed Zendesk Side App extensions to add missing functionality and improve daily support workflows(*saved `$200.000` in unbudgeted vendor costs*).
 - Created a custom Zendesk Side App to replace a deprecated native tagging feature, avoiding the need for an expensive enterprise add-on.
 - Wrote multiple vanilla JavaScript automations with Google Apps Script to streamline support operations, including escalations and automated case updates.
+- More recently, building **Replin Tools**, a client‑side diagnostics suite for support engineers with strict local‑only data handling.
+
 
 ## 💻 Hands on experience in these stacks:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
